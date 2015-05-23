@@ -171,7 +171,6 @@ tr-TR:
           quadrillion: Katrilyon
           thousand: Bin
           trillion: Trilyon
-          unit: 
       format:
         delimiter: "."
         precision: 2
@@ -189,7 +188,6 @@ tr-TR:
           tb: TB
     percentage:
       format:
-        delimiter: 
         format: "%%n"
     precision:
       format:
